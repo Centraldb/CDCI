@@ -1,0 +1,25 @@
+<!DOCTYPE RCC><RCC version="1.0">
+    <qresource prefix="/translations">
+        <file alias="ar">locale/centraldatabase_ar.qm</file>
+        <file alias="bg">locale/centraldatabase_bg.qm</file>
+        <file alias="de">locale/centraldatabase_de.qm</file>
+        <file alias="en">locale/centraldatabase_en.qm</file>
+        <file alias="es">locale/centraldatabase_es.qm</file>
+        <file alias="fi">locale/centraldatabase_fi.qm</file>
+        <file alias="fr">locale/centraldatabase_fr.qm</file>
+        <file alias="it">locale/centraldatabase_it.qm</file>
+        <file alias="ja">locale/centraldatabase_ja.qm</file>
+        <file alias="ko">locale/centraldatabase_ko.qm</file>
+        <file alias="nl">locale/centraldatabase_nl.qm</file>
+        <file alias="pl">locale/centraldatabase_pl.qm</file>
+        <file alias="pt">locale/centraldatabase_pt.qm</file>
+        <file alias="ro">locale/centraldatabase_ro.qm</file>
+        <file alias="ru">locale/centraldatabase_ru.qm</file>
+        <file alias="sk">locale/centraldatabase_sk.qm</file>
+        <file alias="th">locale/centraldatabase_th.qm</file>
+        <file alias="tr">locale/centraldatabase_tr.qm</file>
+        <file alias="vi">locale/centraldatabase_vi.qm</file>
+        <file alias="zh_CN">locale/centraldatabase_zh_CN.qm</file>
+        <file alias="zh_TW">locale/centraldatabase_zh_TW.qm</file>
+    </qresource>
+</RCC>
