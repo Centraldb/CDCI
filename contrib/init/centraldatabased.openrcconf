@@ -1,0 +1,33 @@
+# /etc/conf.d/centraldatabased: config file for /etc/init.d/centraldatabased
+
+# Config file location
+#BITCOIND_CONFIGFILE="/etc/centraldatabase/centraldatabase.conf"
+
+# What directory to write pidfile to?  (created and owned by $BITCOIND_USER)
+#BITCOIND_PIDDIR="/var/run/centraldatabased"
+
+# What filename to give the pidfile
+#BITCOIND_PIDFILE="${BITCOIND_PIDDIR}/centraldatabased.pid"
+
+# Where to write centraldatabased data (be mindful that the blockchain is large)
+#BITCOIND_DATADIR="/var/lib/centraldatabased"
+
+# User and group to own centraldatabased process
+#BITCOIND_USER="centraldatabase"
+#BITCOIND_GROUP="centraldatabase"
+
+# Path to centraldatabased executable
+#BITCOIND_BIN="/usr/bin/centraldatabased"
+
+# Nice value to run centraldatabased under
+#BITCOIND_NICE=0
+
+# Additional options (avoid -conf and -datadir, use flags above)
+#BITCOIND_OPTS=""
+
+# The timeout in seconds OpenRC will wait for centraldatabased to terminate
+# after a SIGTERM has been raised.
+# Note that this will be mapped as argument to start-stop-daemon's
+# '--retry' option, which means you can specify a retry schedule
+# here. For more information see man 8 start-stop-daemon.
+BITCOIND_SIGTERM_TIMEOUT=60
