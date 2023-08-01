@@ -1,0 +1,6 @@
+usr/local/bin/centraldatabase-qt usr/bin
+share/pixmaps/centraldatabase32.xpm usr/share/pixmaps
+share/pixmaps/centraldatabase16.xpm usr/share/pixmaps
+share/pixmaps/centraldatabase128.png usr/share/pixmaps
+debian/centraldatabase-qt.desktop usr/share/applications
+debian/centraldatabase-qt.protocol usr/share/kde4/services/

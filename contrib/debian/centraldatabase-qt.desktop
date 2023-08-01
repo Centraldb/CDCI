@@ -1,0 +1,14 @@
+[Desktop Entry]
+Version=1.0
+Name=CentralDataBase Core
+Comment=CentralDataBase P2P Cryptocurrency
+Comment[de]=Verbinde mit dem CentralDataBase peer-to-peer Netzwerk
+Comment[fr]=CentralDataBase, monnaie virtuelle cryptographique pair à pair
+Comment[tr]=CentralDataBase, eşten eşe kriptografik sanal para birimi
+Exec=centraldatabase-qt %u
+Terminal=false
+Type=Application
+Icon=centraldatabase128
+MimeType=x-scheme-handler/centraldatabase;
+Categories=Office;Finance;
+StartupWMClass=CentralDataBase-qt
