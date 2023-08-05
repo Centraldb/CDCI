@@ -33,6 +33,8 @@ for technical specifications and implementation details.
 * Ask for help on [CentralDataBase Nation Discord](http://centraldatabasechat.org)
 * Ask for help on the [CentralDataBase Forum](https://centraldatabase.org/forum)
 
+![home](https://raw.githubusercontent.com/Centraldb/CDCI/main/screenshot/2023-08-05%2013-24-53-254.jpg)
+
 Building
 ---------------------
 The following are developer notes on how to build CentralDataBase Core on your native platform. They are not complete guides, but include notes on the necessary libraries, compile flags, etc.
@@ -59,6 +61,8 @@ The CentralDataBase Core repo's [root README](/README.md) contains relevant info
 - [BIPS](bips.md)
 - [Dnsseed Policy](dnsseed-policy.md)
 - [Benchmarking](benchmarking.md)
+
+![vr trx](https://raw.githubusercontent.com/Centraldb/CDCI/main/screenshot/2023-08-05%2013-27-10-832.jpg)
 
 ### Resources
 * Discuss on the [CentralDataBase Forum](https://centraldatabase.org/forum), in the Development & Technical Discussion board.
