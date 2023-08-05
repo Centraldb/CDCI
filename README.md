@@ -3,6 +3,8 @@ CentralDataBase Core
 
 This is the official reference wallet for CentralDataBase digital currency and comprises the backbone of the CentralDataBase peer-to-peer network. You can [download CentralDataBase Core](https://www.centraldatabase.org/downloads/) or [build it yourself](#building) using the guides below.
 
+![login](https://raw.githubusercontent.com/Centraldb/CDCI/main/screenshot/2023-08-05%2013-28-56-814.png)
+
 Running
 ---------------------
 The following are some helpful notes on how to run CentralDataBase on your native platform.
